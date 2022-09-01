@@ -1,0 +1,1 @@
+print(1, 'duck', '2 geese', 3, 'blind mice')
